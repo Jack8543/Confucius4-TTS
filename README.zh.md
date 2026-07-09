@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./resources/Confucius4-TTS.png" alt="Confucius4-TTS" width="35%">
+    <img src="https://2901733926.github.io/Confucius4-TTS/Confucius4-TTS.jpg" alt="Confucius4-TTS" width="35%">
     <h1>Confucius4-TTS: 多语种跨语种零样本TTS</h1>
     <p><b>一种音色，任意语言。</b></p>
 </div>
